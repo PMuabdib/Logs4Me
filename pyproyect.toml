@@ -1,3 +1,7 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
 [project]
 name = "Logs4Me_Paul_Muabdib"
 version = "0.0.1"
