@@ -4,7 +4,7 @@ version = "0.0.1"
 authors = [
   { name="Paul Muabdib", email="paul.muabdib.usul@gmail.com" },
 ]
-description = "A small example package"
+description = "Simple log system that saves in different files according to the level (TRACE, INFO, WARNNING, ERROR and CRITICAL). "
 readme = "README.md"
 license = { file="LICENSE" }
 requires-python = ">=3.7"
